@@ -1,47 +1,63 @@
-# [Project Name] 🎯
+# WOW (Wellness on Women)🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: V2
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Megha R - VISAT Engineering College
+- Member 2: Christina Jibin - VISAT Engineering College
 
 ### Hosted Project Link
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+WOW (Wellness on Women) is a revolutionary wellness platform designed exclusively for women to seamlessly manage their self-care and daily lives. It empowers users through personalized interfaces, connecting them to resources, enhancing their productivity, and supporting women entrepreneurs—all in one dynamic ecosystem.
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+Women often face challenges in prioritizing their well-being amidst busy schedules. Whether it's finding time for self-care, discovering resources, or supporting women-led businesses, the lack of a unified platform makes these tasks cumbersome.
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+WOW simplifies wellness by offering:
+
+- A personalized dashboard for self-care and productivity.
+- An online class finder for fitness, hobbies, and skill-building.
+- A marketplace to support women entrepreneurs and discover unique, handcrafted products.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- **Languages used**: JavaScript
+- **Frameworks used**: React, Vite
+- **Libraries used**: Tailwind CSS
+- **Database used**: Firebase
+- **Tools used**: 
+  - Vite (for fast development)
+  - NPM (for package management)
+  - VS Code (for coding and debugging)
+  - Git (for version control)
+  - Browser DevTools (for testing and debugging)
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+
+```bash
+git clone https://github.com/megha-ranjith/tink-her-hack-3-temp.git
+```
+
+Installation of dependencies
+
+```bash
+npm i or npm install
+```
+- Create an `.env` file and update the file with the firebase credentials.
 
 # Run
-[commands]
+```bash
+npm run dev
+```
 
 ### Project Documentation
 For Software:
@@ -60,28 +76,6 @@ For Software:
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
 
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Team](Add photo of your team here)
-
-
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
 ### Project Demo
 # Video
 [Add your demo video link here]
@@ -93,7 +87,6 @@ For Hardware:
 ## Team Contributions
 - [Name 1]: [Specific contributions]
 - [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
 
 ---
 Made with ❤️ at TinkerHub
